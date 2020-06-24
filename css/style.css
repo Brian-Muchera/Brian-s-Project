@@ -13,7 +13,7 @@ ul > li {
 h1 {
     color: orangered;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large;
+    font-size: x-large;
     float: inline-start;
 }
 h3 {
@@ -29,4 +29,8 @@ h3 {
     width: 400px;
     height: 500px;
     float: inline-end;
+}
+div > #contacts > p {
+    color: red;
+    font-weight: bolder;
 }
