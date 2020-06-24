@@ -10,3 +10,12 @@ ul > li {
     display: inline-block;
     color: blue;
 }
+h1 {
+    color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    float: inline-start;
+}
+h3 {
+    color: blue;
+}
