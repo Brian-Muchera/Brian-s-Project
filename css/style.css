@@ -45,3 +45,6 @@ div > #contacts > p {
     left: 0;
     background-size: cover;
 }
+#icons {
+    flex-direction: column;
+}
