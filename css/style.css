@@ -1,0 +1,12 @@
+nav {
+    margin-right: 0%;
+    padding: 10px 0;
+    max-width: 960px;
+}
+nav > ul {
+    text-align: right;
+}
+ul > li {
+    display: inline-block;
+    color: blue;
+}
