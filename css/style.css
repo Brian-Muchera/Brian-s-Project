@@ -23,9 +23,9 @@ h3 {
 }
 #img {
     justify-content: start;
-    width: 400px
+    width: 400px;
     height: 500px;
-    float: inline-start;
+    float:inline-start;
 }
 #image {
     width: 400px;
