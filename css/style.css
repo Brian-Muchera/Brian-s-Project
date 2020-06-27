@@ -16,10 +16,12 @@ h1 {
     font-size: xx-large;
     float: inline-start;
     font-weight: bolder;
+    text-align: start;
 }
 h3 {
     color: white;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 #img {
