@@ -1,0 +1,48 @@
+nav {
+    margin-right: 0%;
+    padding: 10px 0;
+    max-width: 960px;
+}
+nav > ul {
+    text-align: right;
+}
+ul > li {
+    display: inline-block;
+    color: blue;
+}
+h1 {
+    color: orangered;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large ;
+    float: inline-start;
+}
+h3 {
+    color: blue;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+#img {
+    justify-content: start;
+    float: inline-start;
+}
+
+div > #contacts > p {
+    color: green;
+    font-weight: bolder;
+}
+
+.container {
+    position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-size: cover;
+}
+#icons {
+    flex-direction: column;
+}
+body {
+    background-color: teal;
+    background-repeat: no-repeat;
+}
